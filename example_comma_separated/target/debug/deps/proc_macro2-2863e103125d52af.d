@@ -1,0 +1,11 @@
+C:\Users\javisser\CLionProjects\clone_field\example_clone_field\target\debug\deps\proc_macro2-2863e103125d52af.rmeta: C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\lib.rs C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\strnom.rs C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\detection.rs C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\fallback.rs C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\wrapper.rs
+
+C:\Users\javisser\CLionProjects\clone_field\example_clone_field\target\debug\deps\libproc_macro2-2863e103125d52af.rlib: C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\lib.rs C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\strnom.rs C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\detection.rs C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\fallback.rs C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\wrapper.rs
+
+C:\Users\javisser\CLionProjects\clone_field\example_clone_field\target\debug\deps\proc_macro2-2863e103125d52af.d: C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\lib.rs C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\strnom.rs C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\detection.rs C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\fallback.rs C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\wrapper.rs
+
+C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\lib.rs:
+C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\strnom.rs:
+C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\detection.rs:
+C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\fallback.rs:
+C:\Users\javisser\.cargo\registry\src\github.com-1ecc6299db9ec823\proc-macro2-1.0.12\src\wrapper.rs:
